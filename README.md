@@ -78,6 +78,3 @@ Only one player can move at a time. Threads are synchronized to avoid conflicts 
 ## Author
 
 Ahmed Saleh
-
-```
-```
